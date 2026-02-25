@@ -24,3 +24,4 @@ promise.then((message)=>{
 })
 console.log("A");
 console.log("B");
+console.log("git practise is working fine")
